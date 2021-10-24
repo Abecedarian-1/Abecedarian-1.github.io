@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  <entry>
+    <title>变量与函数</title>
+    <url>/2021/10/23/%E5%8F%98%E9%87%8F%E4%B8%8E%E5%87%BD%E6%95%B0/</url>
+    <content><![CDATA[<h1 id="一些简单的概念"><a href="#一些简单的概念" class="headerlink" title="一些简单的概念"></a>一些简单的概念</h1><ul>
+<li><p>有理数 无理数 实数</p>
+</li>
+<li><p>数轴 绝对值（三角不等式）</p>
+</li>
+<li><p>集合（列举法、描述法）</p>
+<span id="more"></span>  </li>
+<li><p>区间 </p>
+</li>
+<li><p>邻域</p>
+<p>​    设 $ a $ 和 $ \delta $ 是两个实数，且 $\delta&gt;0$ ,将开区间$(a-\delta,a+\delta)$ 称为<strong>点 $a$ 的 $\delta$ 邻域</strong>，记作 $U(a,\delta)$, 即 </p>
+<script type="math/tex; mode=display">
+U(a,\delta)=\{x||x-a|<\delta\}</script><p>若把邻域 $U(a,\delta)$ 的中心去掉，则称为<strong>点 $a$ 的去心 $\delta$ 邻域</strong> ，记作 $\mathring{U}(a,\delta)$, 即</p>
+<script type="math/tex; mode=display">
+\mathring{U}(a,\delta)=\{x|0<|x-a|<\delta\}</script><p>类似的有右邻域，左邻域。   </p>
+</li>
+</ul>
+<ul>
+<li><p>函数及其图形</p>
+<p>​    几类重要的分段函数：绝对值函数$y=|x|$，符号函数</p>
+<script type="math/tex; mode=display">
+y=\text{sgn}\ x
+\begin{cases}
+1,& \text{x>0}\\
+0,& \text{x=0}\\
+-1,& \text{x<0}
+\end{cases}</script></li>
+</ul>
+<p>  ​        取整函数 $y=[x]$ ,狄利克雷函数</p>
+<script type="math/tex; mode=display">
+  y=D(x)=
+  \begin{cases}
+  1,& \text{x为有理数}\\
+  0,& \text{x为无理数}
+  \end{cases}</script><ul>
+<li><p>函数的几种特性：有界性，单调性，奇偶性</p>
+</li>
+<li><p>反函数 $y=f^{-1}(x)$</p>
+</li>
+<li><p>函数的四则运算法则</p>
+</li>
+<li><p><strong>复合函数</strong></p>
+<p>​    函数 $f(x)$ 在对称区间 $(-l,l)(l&gt;0\text{为常数})$ 上有定义，则必存在 $(-l,l)$ 上的偶函数 $g(x)$ 和奇函数 $h(x)$ 使得</p>
+<script type="math/tex; mode=display">
+f(x)=g(x)+h(x).</script><script type="math/tex; mode=display">
+g(x)=\frac{1}{2}[f(x)+f(-x)],\quad h(x)=\frac{1}{2}[f(x)-f(-x)],\quad x\in(-l,l).</script></li>
+</ul>
+<ul>
+<li>初等函数与双曲函数</li>
+</ul>
+]]></content>
+      <categories>
+        <category>考研微积分</category>
+        <category>第一章 函数与极限</category>
+        <category>第一节 变量与函数</category>
+      </categories>
+      <tags>
+        <tag>函数</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一篇</title>
+    <url>/2021/10/22/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
+    <content><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p> 好开心</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>导数与微分</title>
+    <url>/2021/10/23/%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86/</url>
+    <content><![CDATA[<p>待办</p>
+]]></content>
+      <categories>
+        <category>考研微积分</category>
+        <category>第二章 导数与微分</category>
+        <category>第一节 导数及微分基本概念</category>
+      </categories>
+  </entry>
+</search>
