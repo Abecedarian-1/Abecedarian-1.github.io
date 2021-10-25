@@ -1,6 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>我的第一篇</title>
+    <url>/2021/10/22/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
+    <content><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p> 好开心</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>today_music_10/25/21</title>
+    <url>/2021/10/25/today-music-10-25-21/</url>
+    <content><![CDATA[<h2 id="Mahler-的交响乐"><a href="#Mahler-的交响乐" class="headerlink" title="Mahler 的交响乐"></a>Mahler 的交响乐</h2><p>symphony no.1 in D 在开始悄咪咪的，之后突然就给我响到了，冲击力很强的，至于其他的方面还听不太懂，慢慢来</p>
+]]></content>
+      <tags>
+        <tag>music</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>变量与函数</title>
     <url>/2021/10/23/%E5%8F%98%E9%87%8F%E4%B8%8E%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<h1 id="一些简单的概念"><a href="#一些简单的概念" class="headerlink" title="一些简单的概念"></a>一些简单的概念</h1><ul>
@@ -64,6 +79,12 @@ g(x)=\frac{1}{2}[f(x)+f(-x)],\quad h(x)=\frac{1}{2}[f(x)-f(-x)],\quad x\in(-l,l)
       </tags>
   </entry>
   <entry>
+    <title>笔记事无巨细太多了...</title>
+    <url>/2021/10/25/%E7%AC%94%E8%AE%B0%E4%BA%8B%E6%97%A0%E5%B7%A8%E7%BB%86%E5%A4%AA%E5%A4%9A%E4%BA%86/</url>
+    <content><![CDATA[<p>笔记没什么用的感觉，之后就有重要的问题才记一下吧，其他的就记在笔记本上就行了，还容易查一些。</p>
+]]></content>
+  </entry>
+  <entry>
     <title>导数与微分</title>
     <url>/2021/10/23/%E5%AF%BC%E6%95%B0%E4%B8%8E%E5%BE%AE%E5%88%86/</url>
     <content><![CDATA[<p>待办</p>
@@ -73,11 +94,5 @@ g(x)=\frac{1}{2}[f(x)+f(-x)],\quad h(x)=\frac{1}{2}[f(x)-f(-x)],\quad x\in(-l,l)
         <category>第二章 导数与微分</category>
         <category>第一节 导数及微分基本概念</category>
       </categories>
-  </entry>
-  <entry>
-    <title>我的第一篇</title>
-    <url>/2021/10/22/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E7%AF%87/</url>
-    <content><![CDATA[<h1 id="我的第一篇博客"><a href="#我的第一篇博客" class="headerlink" title="我的第一篇博客"></a>我的第一篇博客</h1><p> 好开心</p>
-]]></content>
   </entry>
 </search>
