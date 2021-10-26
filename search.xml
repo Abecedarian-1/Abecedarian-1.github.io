@@ -10,6 +10,15 @@
       </tags>
   </entry>
   <entry>
+    <title>关于评论区的仪式感</title>
+    <url>/2021/10/25/%E5%85%B3%E4%BA%8E%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F/</url>
+    <content><![CDATA[<pre><code>虽然这个博客根本就不会有人访问，但是我还是配置了评论，果然就是为了好玩，某种奇特的仪式感。
+</code></pre>]]></content>
+      <tags>
+        <tag>吐槽</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>变量与函数</title>
     <url>/2021/10/23/%E5%8F%98%E9%87%8F%E4%B8%8E%E5%87%BD%E6%95%B0/</url>
     <content><![CDATA[<h1 id="一些简单的概念"><a href="#一些简单的概念" class="headerlink" title="一些简单的概念"></a>一些简单的概念</h1><ul>
@@ -102,14 +111,5 @@ g(x)=\frac{1}{2}[f(x)+f(-x)],\quad h(x)=\frac{1}{2}[f(x)-f(-x)],\quad x\in(-l,l)
 
 这告诉我，以后用在配置里的文件，怎么着都不能用中文名。
 </code></pre>]]></content>
-  </entry>
-  <entry>
-    <title>关于评论区的仪式感</title>
-    <url>/2021/10/25/%E5%85%B3%E4%BA%8E%E8%AF%84%E8%AE%BA%E5%8C%BA%E7%9A%84%E4%BB%AA%E5%BC%8F%E6%84%9F/</url>
-    <content><![CDATA[<pre><code>虽然这个博客根本就不会有人访问，但是我还是配置了评论，果然就是为了好玩，某种奇特的仪式感。
-</code></pre>]]></content>
-      <tags>
-        <tag>吐槽</tag>
-      </tags>
   </entry>
 </search>
